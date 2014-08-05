@@ -28,4 +28,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/yaml-shell-pm/issues
   homepage: https://github.com/ingydotnet/yaml-shell-pm
   repository: https://github.com/ingydotnet/yaml-shell-pm.git
-version: '0.63'
+version: '0.64'
