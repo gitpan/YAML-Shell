@@ -10,5 +10,6 @@ README
 bin/ysh
 lib/YAML/Shell.pm
 lib/YAML/Shell.pod
+t/000-compile-modules.t
 t/release-pod-syntax.t
 t/test.t
